@@ -3,3 +3,6 @@
 
 #Ignore bak files
 *.bak
+
+#Ignore orig files
+*.orig
